@@ -1,2 +1,2 @@
-Visit the site below is the link.
+Visit the site here.
 https://snehaa-kumari.github.io/CodinyxBootstrap/
